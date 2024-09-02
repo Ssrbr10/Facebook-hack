@@ -165,7 +165,7 @@ def menu():
     cabecera ()
     version()
     print()
-    print(f"{color.morado}    QUE FACEBOOK QUIERES HAKEAR")
+    print(f"{color.morado}  https://www.facebook.com/profile.php?id=61562850255556&mibextid=ZbWKwL")
     print("")
     print(f"{color.verde}[1]HACKEAR POR USUARIO")
     print(f"{color.verde}[2]HACKEAR POR TELEFONO")
